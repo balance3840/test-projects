@@ -4,7 +4,10 @@
 
 # Requirements
 
-You need to have Docker and Docker Compose installed on your machine. If you don't, you can configure these projects manually.
+* Docker
+* Docker Compose
+
+If you don't, you can configure these projects manually.
 
 # Quickstart
 
