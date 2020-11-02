@@ -1,4 +1,4 @@
-# Pig latin
+# Pig Latin
 
 > This project written in NodeJS provides and algorithm that checks if a given word is a pig Latin.
 
