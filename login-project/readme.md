@@ -1,6 +1,6 @@
 # Login
 
-> This project provides an endpoint to authenticate a user.
+> This project written in Symfony 5 provides an endpoint to authenticate a user.
 
 # Requirements
 

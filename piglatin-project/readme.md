@@ -1,10 +1,11 @@
 # Pig latin
 
-> This project provides and algorithm that checks if a given word is a pig Latin.
+> This project written in NodeJS provides and algorithm that checks if a given word is a pig Latin.
 
 # Requirements
 
 * Node
+* npm
 
 # Testing the project
 If you configured the project using the script provided:
