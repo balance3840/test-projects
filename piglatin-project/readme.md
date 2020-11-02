@@ -15,7 +15,10 @@ docker-compose run node npm test
 If you have a local installation of node:
 
 ``` bash
-npm test
+# Install dependencies
+> npm install
+> # Run unit tests
+> npm test
 ```
 
 # Delete the environment
