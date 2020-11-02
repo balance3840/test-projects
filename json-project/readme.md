@@ -12,5 +12,8 @@ If you configured the project using the script provided: http://127.0.0.1:9005
 If you have a local installation of PHP, start a development server with the following command and then access http://127.0.0.1:9005
 
 ``` bash
-php -S 0.0.0.0:9005
+# Install depencies
+> composer install
+# Run local server
+> php -S 0.0.0.0:9005
 ```
