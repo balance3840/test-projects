@@ -1,0 +1,14 @@
+{
+  "name": "piglatin-project",
+  "version": "1.0.0",
+  "description": "Solving pig latin algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.1"
+  }
+}
