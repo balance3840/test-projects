@@ -7,7 +7,7 @@
 * Docker
 * Docker Compose
 
-If you don't, you can configure these projects manually.
+If you don't, don't worry you can configure these projects manually. You can find more information in the project's folder.
 
 # Quickstart
 
