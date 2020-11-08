@@ -92,7 +92,7 @@ class User implements UserInterface
             $permissions[] = PermissionsEnum::getRolePermissions($role);
         }
 
-        return $permissions;
+        return array_merge(...array_values($permissions));
     }
 
     /**
